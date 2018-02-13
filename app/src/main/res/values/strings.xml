@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SuperHero</string>
+    <string name="description">imageHero</string>
+    <string name="name">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="name_hero">Nombre de SuperHeroe</string>
+    <string name="edad">Edad</string>
+    <string name="direccion">Direccion</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="registrar">REGISTRAR</string>
+    <string name="error">Llena todos los campos</string>
+</resources>
